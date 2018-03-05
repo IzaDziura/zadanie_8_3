@@ -14,6 +14,6 @@ var a = 3,
 	h = 5,
 	triangleArea = 'area';
 
-triangleArea = ((1/2) * 3 * 5);
+triangleArea = ((1/2) * a * h);
 
 alert('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
